@@ -1,0 +1,4 @@
+# data.json solo se lee a través de data.php
+<Files "data.json">
+  Require all denied
+</Files>

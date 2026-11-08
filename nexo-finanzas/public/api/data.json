@@ -1,0 +1,11 @@
+{
+  "inc": 6500000,
+  "gas": 4800000,
+  "cats": [
+    { "name": "Alquiler", "sub": "Vivienda", "icon": "home", "tone": "b" },
+    { "name": "Supermercado", "sub": "Compras del hogar", "icon": "cart", "tone": "r" },
+    { "name": "Servicios", "sub": "Luz, agua, internet", "icon": "bolt", "tone": "o" },
+    { "name": "Combustible", "sub": "Nafta", "icon": "car", "tone": "r" },
+    { "name": "Alimentación", "sub": "Comidas", "icon": "fork", "tone": "o" }
+  ]
+}
